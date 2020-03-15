@@ -1,0 +1,8 @@
+hello
+Test 1
+Test 2
+<<<<<<< HEAD
+test 3
+=======
+Test three
+>>>>>>> NewBranch
